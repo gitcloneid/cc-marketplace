@@ -18,6 +18,16 @@
       "name": "backend-dev",
       "source": "./backend-dev",
       "description": "backend plugin"
+    },
+    {
+      "name": "csharp-dotnet",
+      "source": "./csharp-dotnet",
+      "description": "Principal .NET 10 Architect for design patterns and coding style"
+    },
+    {
+      "name": "csharp-dotnet-debugging",
+      "source": "./csharp-dotnet-debugging",
+      "description": "Expert .NET 10 Debugging Strategist using CLI-first diagnosis"
     }
   ]
 }
