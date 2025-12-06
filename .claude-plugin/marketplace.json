@@ -1,0 +1,23 @@
+{
+  "name": "clowlaw-marketplace",
+  "metadata": {
+    "description": "clowlaw Marketplace",
+    "version": "0.0.1"
+  },
+  "owner": {
+    "name": "Havid Abdilah",
+    "email": "gedanggoreng@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "frontend-design",
+      "source": "./frontend-design",
+      "description": "frontend design plugin"
+    },
+    {
+      "name": "backend-dev",
+      "source": "./backend-dev",
+      "description": "backend plugin"
+    }
+  ]
+}
