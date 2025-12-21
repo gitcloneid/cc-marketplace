@@ -28,6 +28,16 @@
       "name": "csharp-dotnet-debugging",
       "source": "./csharp-dotnet-debugging",
       "description": "Expert .NET 10 Debugging Strategist using CLI-first diagnosis"
+    },
+    {
+      "name": "svelte-programming",
+      "source": "./svelte-programming",
+      "description": "Svelte 5 programming with runes, TypeScript props, state management patterns, and reactivity best practices"
+    },
+    {
+      "name": "svelte-debugging",
+      "source": "./svelte-debugging",
+      "description": "Systematic debugging for Svelte 5 issues - UI not updating, reactivity problems, effects, and stores"
     }
   ]
 }
